@@ -1,4 +1,5 @@
 **@Author** : Akash Mukhoti 
+
 **@Project** : To explore the differences between VLA and WAM approaches . 
 
 ***Objective*** : To read and research about VLA , WAM -- specifically their history , development and contrasts . 
